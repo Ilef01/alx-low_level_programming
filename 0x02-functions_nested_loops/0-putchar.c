@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * This function outputs a message
- * Return : always 0 (success)
+ * This function outputis _putchar followed by a new line
+ * Return: always 0 (success)
  */
 int main(void)
 {
