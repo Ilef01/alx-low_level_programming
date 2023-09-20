@@ -3,6 +3,7 @@
  * *_strncat - returns length of a string
  * @dest: the first string
  * @src:the second string
+ * @n : number of bytes to concatenate
  * Return: the concatenation
  */
 char *_strncat(char *dest, char *src, int n)
