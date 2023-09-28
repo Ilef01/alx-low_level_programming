@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+void _print_rev_recursion(char *s);
 void _puts_recursion(char *s);
 unsigned int _strspn(char *s, char *accept);
 char *_strchr(char *s, char c);
