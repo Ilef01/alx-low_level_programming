@@ -1,7 +1,10 @@
-#include<stdio.h>
+#ifndef MACRO_H
+#define MACRO_H
 /**
- * main - Entry point
- * Description: a function-like macro ABS(x).
- * Return: Always 0 (success)
+ * ABS: a function-like macro ABS(x).
+ * @x: the integer
+ * Return: The absolute value of the integer.
  */
 #define ABS(x) ((x) < 0 ? -(x) : (x))
+
+#endif
