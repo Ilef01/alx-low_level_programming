@@ -1,7 +1,12 @@
 #include<stdio.h>
-/*
- * main - prints the name of the file it was compiled from
- * return : always 0
+
+/**
+ * main - Entry point of the program
+ *
+ * Description: This function prints the name of
+ * the file it was compiled from.
+ *
+ * Return: always 0 (success)
  */
 int main(void)
 {
