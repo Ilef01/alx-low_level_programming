@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "lists.h"
 /**
- * free_listint - frees a list
+ * free_listint2 - frees a list
  * @head: A pointer to the pointer to the list
  * Return: void
  */
