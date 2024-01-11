@@ -2,7 +2,7 @@
 #include "lists.h"
 /**
  * dlistint_len-returns the number of elements in a linked list
- * @h: pointed to the doubly linked list
+ * @h: pointer to the doubly linked list
  * Return: the number of elements
  */
 
